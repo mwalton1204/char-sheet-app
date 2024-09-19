@@ -6,9 +6,3 @@ A web application for managing Dungeons & Dragons character sheets. Built with F
 
 - Create, edit, and delete character sheets
 - Basic user authentication
-
-## Getting Started
-
-1. **Clone the repository**:
-    '''bash
-    git clone <repository-url>
