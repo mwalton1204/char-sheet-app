@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Do not ignore .gitignore
+!.gitignore
+
+# Track specific files
+!README.md
+!requirements.txt
+!app.py
+
+#Track specific directories
+!static/
+!templates/
